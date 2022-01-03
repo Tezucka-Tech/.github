@@ -1,2 +1,1 @@
-# .github
-Profile
+# Welcome to Tezucka Tech
